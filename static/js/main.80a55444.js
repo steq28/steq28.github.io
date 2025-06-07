@@ -18523,7 +18523,7 @@
 						{
 							title: 'E2GAN',
 							description:
-								'Implementing a Transformer-based model in PyTorch to solve the Traveling Salesman Problem (TSP).',
+								'Reproducibility challenge for E2GAN paper: Efficient Training of Efficient GANs for Image-to-Image Translation',
 							logo: 'https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png',
 							linkText: 'View Project',
 							link: 'https://github.com/steq28/e2gan'
